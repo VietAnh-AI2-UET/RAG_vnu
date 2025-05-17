@@ -1,0 +1,43 @@
+1. Các ngành tuyển sinh và chỉ tiêu
+2. Phương thức và đối tượng tuyển sinh
+2.1. Phương thức 1: Xét tuyển thẳng theo Quy chế tuyển sinh của Bộ GD&ĐT
+2.2. Phương thức 2: Xét tuyển bằng kết quả thi tốt nghiệp THPT năm 2025
+Điểm xét tuyển = [(Điểm môn 1 + Điểm môn 2 + (Điểm Ngoại ngữ x 2))/4 x 3] + điểm thưởng + điểm ưu tiên (nếu có)
+Điểm thưởng: xem chi tiết tại mục 4
+Điểm ưu tiên = [(30 – Tổng điểm đạt được đã bao gồm điểm thưởng)/7,5] × Mức điểm ưu tiên khu vực, đối tượng
+2.3. Phương thức 3: Xét tuyển chứng chỉ ngoại ngữ kết hợp với kết quả thi tốt nghiệp THPT năm 2025
+Điểm xét tuyển = [(Điểm môn 1 + Điểm môn 2 + (Điểm quy đổi chứng chỉ sang thang điểm 10 x 2))/4 x 3] + điểm thưởng + điểm ưu tiên (nếu có)
+Điểm thưởng: xem chi tiết tại mục 4
+Điểm ưu tiên = [(30 – Tổng điểm đạt được đã bao gồm điểm thưởng)/7,5] × Mức điểm ưu tiên khu vực, đối tượng
+2.4. Phương thức 4: Xét tuyển bằng kết quả bài thi Đánh giá năng lực học sinh THPT do ĐHQGHN tổ chức
+2.5. Phương thức 5: Xét tuyển chứng chỉ kết hợp với kết quả học tập bậc THPT
+Điểm xét tuyển = [(Điểm môn 1 + Điểm môn 2 + (Điểm quy đổi chứng chỉ sang thang điểm 10 x 2))/4 x 3] + điểm thưởng + điểm ưu tiên (nếu có)
+Điểm thưởng: xem chi tiết tại mục 4
+Điểm ưu tiên = [(30 – Tổng điểm đạt được đã bao gồm điểm thưởng)/7,5] × Mức điểm ưu tiên khu vực, đối tượng
+3. Danh sách tổ hợp xét tuyển, chứng chỉ ngoại ngữ sử dụng trong tuyển sinh đại học chính quy năm 2025
+3.1. Danh sách các tổ hợp xét tuyển vào Trường Đại học Ngoại ngữ, ĐHQGHN năm 2025
+3.2. Danh sách các chứng chỉ ngoại ngữ sử dụng trong tuyển sinh đại học chính quy năm 2025 của Trường Đại học Ngoại ngữ, ĐHQGHN
+3.3. Bảng quy đổi chứng chỉ ngoại ngữ sang thang điểm 10 sử dụng trong tuyển sinh đại học chính quy năm 2025 của Trường Đại học Ngoại ngữ, ĐHQGHN
+Tiếng Anh
+Tiếng Nga
+Tiếng Pháp
+Tiếng Trung
+Tiếng Đức
+Tiếng Nhật
+Tiếng Hàn
+Ghi chú:
+4. Điểm thưởng
+4.1. Điều kiện cộng điểm thưởng
+Ghi chú:
+4.2. Bảng điểm thưởng
+4.2.1. Điểm thưởng dành cho thí sinh đạt giải trong các kỳ thi
+4.2.2. Điểm thưởng dành cho thí sinh tham gia Chương trình VNU 12+
+4.2.3. Điểm thưởng dành cho thí sinh có chứng chỉ quốc tế
+Ghi chú:
+5. Các mốc thời gian (căn cứ theo lịch trình của Bộ GD&ĐT)
+6. Các kênh thông tin truyền thông chính thức
+CÁC TIN BÀI LIÊN QUAN
+Địa chỉ: Đường Phạm Văn Đồng – Quận Cầu Giấy – Hà Nội
+Tel: (+84)243.754.7269
+Fax: (+84)243.754.8057
+Email: dhnn@vnu.edu.vn
